@@ -14,4 +14,3 @@ WiscKey: Separating Keys from Values in SSD-conscious Storage
 Authors: Lanyue Lu, Thanumalayan Sankaranarayana Pillai, Andrea C. Arpaci-Dusseau, and Remzi H. Arpaci-Dusseau, University of Wisconsin—Madison
 
 Prof Song Jiang, University of Texas at Arlington.
-For guidance and also for providing the base code.
